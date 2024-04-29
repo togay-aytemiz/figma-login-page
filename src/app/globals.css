@@ -7,7 +7,8 @@
 
 @layer base {
   .font-outline-2 {
-    -webkit-text-stroke: 3px rgb(180, 0, 0);
+    color:red;
+    -webkit-text-stroke: 3px #DA211C
   }
   .font-outline-4 {
     -webkit-text-stroke: 4px black;
